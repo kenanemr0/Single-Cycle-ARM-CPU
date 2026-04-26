@@ -1,1 +1,1 @@
-
+Contains the technical documentation and visual proofs for the design. This includes the high-level laboratory report detailing the implementation of additional functionalities like BL and BX instructions. It also features high-resolution screenshots of the RTL Viewer for both the Datapath and the Control Unit to show the synthesized hardware structure.
