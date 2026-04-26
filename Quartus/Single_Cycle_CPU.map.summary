@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Apr 26 13:28:21 2026
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : Single_Cycle_CPU
+Top-level Entity Name : Single_Cycle_ARM_CPU
+Family : Cyclone III
+Total logic elements : 3,033
+    Total combinational functions : 2,585
+    Dedicated logic registers : 513
+Total registers : 513
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 4,096
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
